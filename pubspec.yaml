@@ -1,0 +1,6 @@
+name: open_type_ai
+version: 1.0.0
+flutter:
+  assets:
+    - assets/fonts/
+    - assets/images/
